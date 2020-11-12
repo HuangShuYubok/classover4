@@ -20,6 +20,11 @@
       <path value="$PROJECT_DIR$/vendor/easyswoole/log" />
       <path value="$PROJECT_DIR$/vendor/easyswoole/session" />
       <path value="$PROJECT_DIR$/vendor/easyswoole/http" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/redis" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/ddl" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/orm" />
+      <path value="$PROJECT_DIR$/vendor/easyswoole/fast-cache" />
     </include_path>
   </component>
+  <component name="PhpProjectSharedConfiguration" php_language_level="7.1" />
 </project>
